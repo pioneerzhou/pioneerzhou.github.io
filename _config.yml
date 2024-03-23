@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "pioneerzhou / Internet自留地" #"Your Name / Site Title"
+title                    : "pioneerzhou / Internet page" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "zhoulvbang" #"Your Name"
 description              : &description "一个对什么都会产生兴趣的人，一直在尝试各种事物" #"personal description"

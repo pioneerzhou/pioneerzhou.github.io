@@ -1,12 +1,21 @@
 ---
-title: "Paper Title Number 1"
+title: "长沙市某三甲医院急性心肌梗死患者病例组合研究"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-03-15-paper-title-number-1
+excerpt: '长沙市某三甲医院急性心肌梗死患者病例组合研究'
+date: 2023-03-15
+venue: '中文科技期刊数据库（全文版）医药卫生'
+paperurl: 'http://pioneerzhou.github.io/files/长沙市某三甲医院急性心肌梗死患者病例组合研究.pdf'
+citation: '周律邦, 周律邦. (2023). &quot;Paper Title Number 1.&quot; <i>中文科技期刊数据库（全文版）医药卫生</i>. 1(1).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**目的** 探索急性心肌梗死患者住院治疗费用的 DRGs 分组，及制定相应的相应住院费用标准，为控制住院费
+用和医保支付方式改革提供参考。
+
+**方法** 选取长沙市某三甲医院 2016-2021 年 2930 例急性心肌梗死住院患者为研
+究对象，采用 Mann-Whitney U 检验、Kruskal-Wallis H 检验和多重线性回归分析法得出影响住院治疗费用的因
+素，运用 CART 算法的决策树模型建立急性心肌梗死患者的 DRGs 病例组合方案。
+
+**结果** 主要治疗方式、住院天数、否心源性休克是住院费用的影响因素，决策树模型产生 6 个病例组合，并获得相应的住院费用标准，其中主要治
+疗方式影响程度最大，其次是住院天数、是否心源性休克。结论 急性心肌梗死患者住院费用病例分组方案合理，
+住院费用标准和病种权重可为医疗保险部门和医疗机构制定住院费用偿付标准提供数据基础和理论参考。
