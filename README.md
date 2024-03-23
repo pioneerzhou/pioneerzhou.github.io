@@ -9,7 +9,7 @@
 
 1. 如果您没有 GitHub 帐户，请注册一个并确认您的电子邮件（必需！）
 2. 单击右上角的 "Use this template" 按钮。
-3. 在 "New repository" 页面上，将您的存储库名称设置为 "[您的 GitHub 用户名].github.io"，这也将是您的网站的 URL。
+3. 在 "New repository" 页面上，将您的存储库名称设置为 "[your GitHub name].github.io"，这也将是您的网站的 URL。
 4. 设置站点全局配置并添加您的内容。
 5. 将任何文件（如 PDF、.zip 文件等）上传到 `files/` 目录。它们将显示在 https://[your GitHub name].github.io/files/example.pdf。
 6. 通过转到存储库设置，在 "GitHub pages" 部分检查状态。

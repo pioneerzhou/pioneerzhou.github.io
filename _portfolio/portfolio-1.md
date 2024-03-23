@@ -1,7 +1,19 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "关于我"
+excerpt: "喜欢读书与旅游<br/><img src='/images/me.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+关于我自己有很多可以说得故事，但是都很杂乱。
+
+以前会用日记来记录每一天，但是高中时候的日记每天都是鸡毛蒜皮，大多数都是无病呻吟的废话，但是那个时候很有时间和精力，可以在下晚自习后待在教室里或者回到宿舍后写一写，慢慢的也写了三四个日记本，它们现在都躺在家里的书柜里面，落满了灰尘。
+
+大学开始用OneNote来写日记，大一大二还会写一写，但是后来越来越忙，关注的事情越来越多，越来越没有时间静下心记录生活与思想的变化，其实也蛮后悔的，每次都会想去写，然后还是没去写。
+
+喜欢读书，什么书都能看，因为伴随着读的书越来越多，发现很多东西都有其相通的地方，除非是一些完全没有接触过的理工科领域的内容，因为这些领域的理解需要极为坚实的数理化知识储备，这是我所不足的。
+
+文学类的书总是令人深陷其中，白鹿原，活着，三体，每一本都是知识深读与深思的。
+
+读了书就会想着多出去看看，因为读万卷书，行万里路，再多的间接经验与知识也抵不过自己的亲身体验。
+
+

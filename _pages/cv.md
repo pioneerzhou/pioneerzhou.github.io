@@ -29,16 +29,6 @@ Work experience
 * 2021.06：湖南省大学生创新创业项目
   * 项目《基于决策树CHAID算法的急性心肌梗死DRGs分组研究》获得湖南省大学生创新创业项目省级立项
   * 2023年3月，论文《长沙市某三甲医院急性心肌梗死患者病例组合研究》在《中文科技期刊数据库(全文版)医药卫生》发表。
-<!-- 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
-
-<!-- * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
   
 Skills
 ======
