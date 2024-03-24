@@ -1,8 +1,7 @@
-Contributions are welcome! 
+贡献是受欢迎的！
 
-Please add issues and make pull requests. There are no stupid questions. All ideas are welcome. This is a volunteer project. Be excellent to each other.
+请添加问题并发起拉取请求。没有愚蠢的问题。所有想法都受欢迎。这是一个志愿者项目。彼此要相互尊重。
 
-Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+有关如何使用模板进行样式设置的问题，请使用[GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose)来提交报告和功能请求。请随时在 GitHub 上开始[新的讨论](https://github.com/academicpages/academicpages.github.io/discussions)，这是导向到原模板与开发者的页面，如果想与我交流请[E-mail](simonzhou2001@gmail.com)。
 
-Fork from master and go from there. Remember that this repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages.
-
+fork from master 并开始。请记住，该存储库旨在保持通用的、可立即 fork 的模板，展示了 academicpages 的特性。

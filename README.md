@@ -16,7 +16,6 @@
 7. （可选）使用 `markdown_generator` 文件夹中的 Jupyter 笔记本或 Python 脚本从 TSV 文件生成出版物和演讲的 markdown 文件。
 
 请参阅 [academicpasges](https://academicpages.github.io/) 获取更多信息。
-
 ## 本地运行
 
 当您初始工作网站时，能够在将更改推送到 GitHub 之前本地预览更改非常有用。要在本地工作，您需要：
@@ -25,6 +24,8 @@
 2. 确保您已安装 `ruby-dev`、`bundler` 和 `nodejs`：`sudo apt install ruby-dev ruby-bundler nodejs`。
 3. 运行 `bundle install` 来安装 ruby 依赖项。如果出现错误，请删除 `Gemfile.lock` 并重试。
 4. 运行 `jekyll serve -l -H localhost` 来生成 HTML 并从 `localhost:4000` 提供它。本地服务器将在更改时自动重建和刷新页面。
+5. 如果第4点提示错误，请使用如下命令进行构建与编译：`bundle exec jekyll build`，该命令将生成HTML；`bundle exec jekyll serve`，该命令将自动实时生成HTML，并可以在` http://127.0.0.1:4000/`查看生成的页面。
+
 
 # 维护
 
