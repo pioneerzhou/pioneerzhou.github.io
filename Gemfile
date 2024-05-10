@@ -29,3 +29,8 @@ end
 
 # Add tzinfo-data gem
 gem 'tzinfo-data'
+
+gem 'faraday-retry'
+#faraday-retry 是 Faraday HTTP 客户端库的一个插件，它为 HTTP 请求添加了自动重试的功能。
+#在网络请求中，有时由于网络问题或服务器问题导致请求失败，为了增加请求的稳定性和可靠性，我们可以使用重试机制来重新发送失败的请求。
+#faraday-retry 可以配置在发生特定类型的错误时自动重试请求，并提供了一些参数来自定义重试的行为，例如重试次数、重试延迟等。
