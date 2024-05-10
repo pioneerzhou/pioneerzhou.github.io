@@ -4,33 +4,33 @@ layout: archive
 permalink: /archive-layout-with-content/
 ---
 
-A variety of common markup showing how the theme styles them.
+各种常见标记示例，展示主题如何对它们进行样式设置。
 
-# Header one
+# 一级标题
 
-## Header two
+## 二级标题
 
-### Header three
+### 三级标题
 
-#### Header four
+#### 四级标题
 
-##### Header five
+##### 五级标题
 
-###### Header six
+###### 六级标题
 
-## Blockquotes
+## 块引用
 
-Single line blockquote:
+单行块引用：
 
-> Quotes are cool.
+> 引用很酷。
 
-## Tables
+## 表格
 
-| Entry            | Item   |                                                              |
+| 条目              | 项目   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [约翰·杜](#)     | 2016   | 列表中项目的描述                                             |
+| [简·杜](#)       | 2019   | 列表中项目的描述                                             |
+| [多多](#)        | 2022   | 列表中项目的描述                                             |
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -50,7 +50,7 @@ Definition List Title
 Startup
 :   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
 
-#dowork
+# dowork
 :   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 
 Do It Live
