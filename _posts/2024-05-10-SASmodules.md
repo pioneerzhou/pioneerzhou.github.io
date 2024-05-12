@@ -1,5 +1,5 @@
 ---
-title: 'SAS学习笔记-2'
+title: 'SAS学习笔记2-常见的SAS模块'
 date: 2024-05-10
 permalink: /posts/2024/05/SASmodules/
 tags:
