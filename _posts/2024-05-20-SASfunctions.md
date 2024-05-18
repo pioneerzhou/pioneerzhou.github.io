@@ -1,5 +1,5 @@
 ---
-title: 'SAS学习笔记4-SAS函数'
+title: 'SAS学习笔记5-SAS函数'
 date: 2024-05-20
 permalink: /posts/2024/05/SASfunctions/
 tags:
