@@ -25,6 +25,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "webrick", "~> 1.8"
+  gem "jekyll-sass-converter", "1.5.2" # 使用 1.5.2 版本
 end
 
 # Add tzinfo-data gem
